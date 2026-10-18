@@ -1,11 +1,15 @@
 <p align="right">
-  <b>한국어</b> | <a href="README_en.md">English</a> | <a href="README_jap.md">日本語</a>
+  <b>한국어</b> | <a href="README_en.md">English</a> | <a href="README_jap.md">日本語</a> | <a href="README_zh.md">中文</a>
 </p>
 
 # Super Mute (Windows) — 슈퍼무음 윈도우
 
 <p align="center">
-  <img src="logo/minagy_monogram_coral.png" alt="Minagy Labs Logo" width="140" height="140" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo/minagy_monogram_coral.png">
+    <source media="(prefers-color-scheme: light)" srcset="logo/minagy_monogram.png">
+    <img src="logo/minagy_monogram.png" alt="Minagy Labs Logo" width="140" height="140" />
+  </picture>
 </p>
 
 <p align="center">
@@ -26,9 +30,9 @@
 </p>
 
 <p align="center">
-  <img src="logo/supermute_main.png" alt="Super Mute (Windows) Main Window" width="500" />
+  <img src="logo/supermute_main_ko.png" alt="Super Mute (Windows) Main Window" width="500" />
   &nbsp;&nbsp;
-  <img src="logo/supermute_drawer.png" alt="Super Mute Quick Guide Drawer" width="500" />
+  <img src="logo/supermute_drawer_ko.png" alt="Super Mute Quick Guide Drawer" width="500" />
 </p>
 
 ---
@@ -59,7 +63,7 @@
 사용자의 기기 보안과 개인정보 보호를 위한 안전 수칙입니다:
 
 1. **PC 사전 바이러스 검사**:
-   - 휴대폰을 연결하기 전 Windows Defender 또는 백신 프로그램으로 PC를 검사합니다.
+   - 휴대폰을 연결하기 전 Windows Defender 또는 백신 프로그램으로 PC를 검사하여주세요.
 2. **1-클릭 실행**:
    - USB 케이블로 휴대폰을 연결하고 화면의 디버깅 권한을 허용한 후 **'소리 끄기'** 버튼을 클릭합니다.
 3. **10초 안전 수칙 준수**:

@@ -1,11 +1,15 @@
 <p align="right">
-  <a href="README.md">한국어</a> | <a href="README_en.md">English</a> | <b>日本語</b>
+  <a href="README.md">한국어</a> | <a href="README_en.md">English</a> | <b>日本語</b> | <a href="README_zh.md">中文</a>
 </p>
 
 # Super Mute (Windows) — スーパーミュート (Windows)
 
 <p align="center">
-  <img src="logo/minagy_monogram_coral.png" alt="Minagy Labs Logo" width="140" height="140" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo/minagy_monogram_coral.png">
+    <source media="(prefers-color-scheme: light)" srcset="logo/minagy_monogram.png">
+    <img src="logo/minagy_monogram.png" alt="Minagy Labs Logo" width="140" height="140" />
+  </picture>
 </p>
 
 <p align="center">
@@ -26,9 +30,9 @@
 </p>
 
 <p align="center">
-  <img src="logo/supermute_main.png" alt="Super Mute (Windows) Main Window" width="500" />
+  <img src="logo/supermute_main_ja.png" alt="Super Mute (Windows) Main Window" width="500" />
   &nbsp;&nbsp;
-  <img src="logo/supermute_drawer.png" alt="Super Mute Quick Guide Drawer" width="500" />
+  <img src="logo/supermute_drawer_ja.png" alt="Super Mute Quick Guide Drawer" width="500" />
 </p>
 
 ---
