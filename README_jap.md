@@ -5,7 +5,7 @@
 # Super Mute (Windows) — スーパーミュート (Windows)
 
 <p align="center">
-  <img src="logo/minagy_logo_light.png" alt="Minagy Labs Logo" width="140" height="140" />
+  <img src="logo/minagy_monogram_coral.png" alt="Minagy Labs Logo" width="140" height="140" />
 </p>
 
 <p align="center">
