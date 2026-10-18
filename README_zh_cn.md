@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="README.md">한국어</a> | <a href="README_en.md">English</a> | <a href="README_jap.md">日本語</a> | <b>中文</b>
+  <a href="README.md">한국어</a> | <a href="README_en.md">English</a> | <a href="README_jap.md">日本語</a> | <b>简体中文</b> | <a href="README_zh_tw.md">繁體中文</a>
 </p>
 
 # Super Mute (Windows) — 超级静音 Windows 版
@@ -30,9 +30,9 @@
 </p>
 
 <p align="center">
-  <img src="logo/supermute_main_zh.png" alt="Super Mute (Windows) Main Window" width="500" />
+  <img src="logo/supermute_main_zh_cn.png" alt="Super Mute (Windows) Main Window" width="500" />
   &nbsp;&nbsp;
-  <img src="logo/supermute_drawer_zh.png" alt="Super Mute Quick Guide Drawer" width="500" />
+  <img src="logo/supermute_drawer_zh_cn.png" alt="Super Mute Quick Guide Drawer" width="500" />
 </p>
 
 ---

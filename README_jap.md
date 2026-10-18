@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="README.md">한국어</a> | <a href="README_en.md">English</a> | <b>日本語</b> | <a href="README_zh.md">中文</a>
+  <a href="README.md">한국어</a> | <a href="README_en.md">English</a> | <b>日本語</b> | <a href="README_zh_cn.md">简体中文</a> | <a href="README_zh_tw.md">繁體中文</a>
 </p>
 
 # Super Mute (Windows) — スーパーミュート (Windows)
