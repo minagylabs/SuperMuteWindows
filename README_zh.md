@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/minagylabs/SuperMuteWindows"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminagylabs%2FSuperMuteWindows&count_bg=%23238636&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true" alt="Visitors"></a>
+  <a href="https://github.com/minagylabs/SuperMuteWindows"><img src="https://komarev.com/ghpvc/?username=minagylabs-supermutewindows&label=Visitors&color=238636&style=flat-square" alt="Visitors"></a>
   <a href="https://github.com/minagylabs/SuperMuteWindows/releases/latest"><img src="https://img.shields.io/badge/Release-v1.0.0-238636.svg?style=flat-square" alt="Release"></a>
   <a href="https://github.com/minagylabs/SuperMuteWindows/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"></a>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-0078D6.svg?style=flat-square" alt="Platform">
@@ -92,9 +92,9 @@
 
 | 设备系列 | 目标系统 | 支持状态 | 静音后表现 |
 | :--- | :--- | :---: | :--- |
-| **Galaxy S 系列**<br>(S7 ~ S24 / S25 / S26) | One UI 1.0 ~ 8.5 / 9+<br>(Android 7 ~ 16+) | **支持 ✓** | 手机处于振动或静音模式时原生相机完全静音 |
-| **Galaxy Z 折叠屏系列**<br>(Fold 1~8, Flip 1~8) | One UI 1.1 ~ 8.5 / 9+<br>(Android 9 ~ 16+) | **支持 ✓** | 外屏与内屏主相机均可静音 |
-| **Galaxy Note 系列**<br>(Note 8 ~ Note 20 Ultra) | One UI 1.0 ~ 4.1<br>(Android 7 ~ 12) | **支持 ✓** | 振动或静音模式下完全静音 |
+| **Galaxy S 系列**<br>(S7 及之后全系机型) | One UI 1.0 ~ 8.5 / 9+<br>(Android 7 ~ 16+) | **支持 ✓** | 手机处于振动或静音模式时原生相机完全静音 |
+| **Galaxy Z 折叠屏系列**<br>(Fold / Flip 全系机型) | One UI 1.1 ~ 8.5 / 9+<br>(Android 9 ~ 16+) | **支持 ✓** | 外屏与内屏主相机均可静音 |
+| **Galaxy Note 系列**<br>(Note 8 ~ Note 20 系列) | One UI 1.0 ~ 4.1<br>(Android 7 ~ 12) | **支持 ✓** | 振动或静音模式下完全静音 |
 | **Galaxy A / M / Quantum 系列**<br>(A10 ~ A55, M 等系列) | One UI / One UI Core<br>(Android 7 ~ 16+) | **支持 ✓** | 振动或静音模式下完全静音 |
 | **Google Pixel / 小米 / iPhone** | 非三星系统 | 不支持 | 由于未使用三星原生系统设置架构，因此不提供支持。 |
 

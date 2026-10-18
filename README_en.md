@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/minagylabs/SuperMuteWindows"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminagylabs%2FSuperMuteWindows&count_bg=%23238636&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true" alt="Visitors"></a>
+  <a href="https://github.com/minagylabs/SuperMuteWindows"><img src="https://komarev.com/ghpvc/?username=minagylabs-supermutewindows&label=Visitors&color=238636&style=flat-square" alt="Visitors"></a>
   <a href="https://github.com/minagylabs/SuperMuteWindows/releases/latest"><img src="https://img.shields.io/badge/Release-v1.0.0-238636.svg?style=flat-square" alt="Release"></a>
   <a href="https://github.com/minagylabs/SuperMuteWindows/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"></a>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-0078D6.svg?style=flat-square" alt="Platform">
@@ -92,9 +92,9 @@ To protect your device and privacy, please follow these safety practices:
 
 | Device Series | Target OS | Compatibility | Behavior After Muting |
 | :--- | :--- | :---: | :--- |
-| **Galaxy S Series**<br>(S7 ~ S24 / S25 / S26) | One UI 1.0 ~ 8.5 / 9+<br>(Android 7 ~ 16+) | **Supported ✓** | Silent when phone is in Vibrate or Mute mode. |
-| **Galaxy Z Series**<br>(Fold 1~8, Flip 1~8) | One UI 1.1 ~ 8.5 / 9+<br>(Android 9 ~ 16+) | **Supported ✓** | Silent on both cover and main cameras. |
-| **Galaxy Note Series**<br>(Note 8 ~ Note 20 Ultra) | One UI 1.0 ~ 4.1<br>(Android 7 ~ 12) | **Supported ✓** | Silent in Vibrate or Mute mode. |
+| **Galaxy S Series**<br>(S7 and newer) | One UI 1.0 ~ 8.5 / 9+<br>(Android 7 ~ 16+) | **Supported ✓** | Silent when phone is in Vibrate or Mute mode. |
+| **Galaxy Z Series**<br>(All Fold & Flip models) | One UI 1.1 ~ 8.5 / 9+<br>(Android 9 ~ 16+) | **Supported ✓** | Silent on both cover and main cameras. |
+| **Galaxy Note Series**<br>(Note 8 ~ Note 20 series) | One UI 1.0 ~ 4.1<br>(Android 7 ~ 12) | **Supported ✓** | Silent in Vibrate or Mute mode. |
 | **Galaxy A / M / Quantum Series**<br>(A10 ~ A55, M series) | One UI / One UI Core<br>(Android 7 ~ 16+) | **Supported ✓** | Silent in Vibrate or Mute mode. |
 | **Google Pixel / Xiaomi / iPhone** | Non-Samsung OS | Not Supported | These devices do not use Samsung's native system setting architecture. |
 

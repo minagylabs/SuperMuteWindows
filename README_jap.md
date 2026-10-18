@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/minagylabs/SuperMuteWindows"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminagylabs%2FSuperMuteWindows&count_bg=%23238636&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true" alt="Visitors"></a>
+  <a href="https://github.com/minagylabs/SuperMuteWindows"><img src="https://komarev.com/ghpvc/?username=minagylabs-supermutewindows&label=Visitors&color=238636&style=flat-square" alt="Visitors"></a>
   <a href="https://github.com/minagylabs/SuperMuteWindows/releases/latest"><img src="https://img.shields.io/badge/Release-v1.0.0-238636.svg?style=flat-square" alt="Release"></a>
   <a href="https://github.com/minagylabs/SuperMuteWindows/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"></a>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-0078D6.svg?style=flat-square" alt="Platform">
@@ -91,9 +91,9 @@
 
 | 機種シリーズ | 対象OS | 対応状況 | 適用後の動作 |
 | :--- | :--- | :---: | :--- |
-| **Galaxy S シリーズ**<br>(S7 〜 S24 / S25 / S26) | One UI 1.0 〜 8.5 / 9+<br>(Android 7 〜 16+) | **対応 ✓** | マナーモード（バイブまたは消音）時に純正カメラが消音 |
-| **Galaxy Z シリーズ**<br>(Fold 1〜8, Flip 1〜8) | One UI 1.1 〜 8.5 / 9+<br>(Android 9 〜 16+) | **対応 ✓** | カバー画面およびメインカメラの双方で消音適用 |
-| **Galaxy Note シリーズ**<br>(Note 8 〜 Note 20 Ultra) | One UI 1.0 〜 4.1<br>(Android 7 〜 12) | **対応 ✓** | マナーモード時に消音 |
+| **Galaxy S シリーズ**<br>(S7 以降の全機種) | One UI 1.0 〜 8.5 / 9+<br>(Android 7 〜 16+) | **対応 ✓** | マナーモード（バイブまたは消音）時に純正カメラが消音 |
+| **Galaxy Z シリーズ**<br>(Fold / Flip 全機種) | One UI 1.1 〜 8.5 / 9+<br>(Android 9 〜 16+) | **対応 ✓** | カバー画面およびメインカメラの双方で消音適用 |
+| **Galaxy Note シリーズ**<br>(Note 8 〜 Note 20 シリーズ) | One UI 1.0 〜 4.1<br>(Android 7 〜 12) | **対応 ✓** | マナーモード時に消音 |
 | **Galaxy A / M / Feel シリーズ**<br>(A10 〜 A55, M, Feel等) | One UI / One UI Core<br>(Android 7 〜 16+) | **対応 ✓** | マナーモード時に消音 |
 | **Google Pixel / Xiaomi / iPhone** | 他社製OS | 非対応 | Samsung純正のシステム設定方式を使用していないため非対応です。 |
 
